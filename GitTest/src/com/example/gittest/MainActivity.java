@@ -13,7 +13,7 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.d("DEB","Git is cool, right?");
+        Log.d("DEB","Git is cool, do you agree?");
     }
 
 
